@@ -1,0 +1,13 @@
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.csprojAssemblyReference.cache
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.AssemblyInfoInputs.cache
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.AssemblyInfo.cs
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.csproj.CoreCompileInputs.cache
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.exe
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.deps.json
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.runtimeconfig.json
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.runtimeconfig.dev.json
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.dll
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.pdb
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.dll
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.pdb
+D:\mars-rover-problem-master\mars-rover-problem-master\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.genruntimeconfig.cache
